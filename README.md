@@ -1,6 +1,6 @@
 Node.js sample app on OpenShift!
 -----------------
-
+### OpenShift on väga aeglane ja viiest build ja 10st üks deployment läheb läbi. Aga õppimiseks kõlbab vast küll.
 This example will serve a welcome page and the current hit count as stored in a database.
 
 ### OpenShift Origin v3 setup
